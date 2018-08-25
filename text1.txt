@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is B065-51D5
+
+ Directory of C:\Users\ajay.dhanwal\Desktop\MyProject
+
+25/08/2018  06:09 PM    <DIR>          .
+25/08/2018  06:09 PM    <DIR>          ..
+25/08/2018  06:09 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  167,354,503,168 bytes free
